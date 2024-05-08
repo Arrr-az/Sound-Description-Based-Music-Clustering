@@ -1,2 +1,7 @@
 # Sound-Description-Based-Music-Clustering
-In this project I'll be building both a dataset and an unsupervised classification model with the "k-Means Clustering" algorithm, the goal being to cluster different music albums based on their sound-description, as described by users of online music community RateYourMusic.
+In this project, we aim to cluster different music albums based on their sound-description, as described by users of online music community RateYourMusic. For this purpose were built both a music descriptor dataset and an unsupervised classification model with the "k-Means Clustering" algorithm.
+
+# What is "Sound Description"
+In the online music forum "Rate Your Music", users can vote on pre-determined descriptors for any musical release they want. Descriptors are simply words or short terms that capture a certain characteristic of that musical release. As an example here are the most voted descriptors for the album "Take Me to Your Leader", by King Geedorah: "science fiction, sampling, humorous, concept album, quirky, abstract, lush, playful, male vocalist, rhythmic, surreal, boastful, bittersweet, violence, melodic, conscious, fantasy, protest, mellow, urban, mysterious, futuristic, dense, lo-fi, apocalyptic, hypnotic, rebellious, atmospheric, martial, energetic, eclectic, technical, complex, ethereal, cryptic"
+
+As can be noted, not all descriptors refer to sound aspects of a certain release. In this example, "concept album", "boastful", "conscious", "protest" and some others refer more to lyrical themes or how the album was structured around a certain concept. Our goal is to cluster albums based on XXXXXX These are descriptors we're not interested in
