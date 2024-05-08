@@ -1,0 +1,108 @@
+Form
+    - ballad*
+    - carol
+    - children's music
+    - fairy tale
+    - lullaby
+    - nursery rhyme
+    - concept album*
+    - rock opera*
+    - concerto
+    - ensemble*
+    - a cappella
+    - androgynous vocals*
+    - chamber music*
+    - string quartet
+    - choral
+    - female vocalist*
+    - instrumental*
+    - male vocalist*
+    - non-binary vocalist*
+    - orchestral*
+    - vocal group*
+    - hymn
+    - jingle*
+    - madrigal
+    - mashup
+    - medley*
+    - monologue*
+    - novelty
+    - opera
+    - oratorio
+    - parody*
+    - poem
+    - section
+    - interlude
+    - intro
+    - movement
+    - outro
+    - reprise
+    - silence
+    - skit*
+    - sonata
+    - stem
+    - suite*
+    - symphony
+    - tone poem
+    - waltz
+
+Lyrics
+    - theme
+    - abstract* (+)
+    - alienation* (+)
+    - conscious* (+)
+    - crime*
+    - death* (+)
+    - suicide*
+    - drugs* (+)
+    - alcohol*
+    - educational
+    - fantasy*
+    - folklore*
+    - hedonistic*
+    - history*
+    - holiday
+    - Christmas
+    - Halloween*
+    - ideology
+    - anti-religious*
+    - pagan*
+    - political* (+)
+    - anarchism*
+    - nationalism*
+    - propaganda
+    - protest*
+    - religious*
+    - Christian*
+    - Islamic*
+    - satanic*
+    - introspective* (+)
+    - LGBT*
+    - love* (+)
+    - breakup*
+    - misanthropic*
+    - mythology*
+    - nature*
+    - occult*
+    - paranormal*
+    - patriotic*
+    - philosophical* (+)
+    - existential* (+)
+    - nihilistic*
+    - science fiction*
+    - self-hatred*
+    - sexual* (+)
+    - sports*
+    - violence*
+    - war*
+
+Technique
+    - composition
+    - aleatory
+    - generative music
+    - improvisation*
+    - uncommon time signatures*
+    - production
+    - lobit
+    - sampling*
+    - Wall of Sound*
